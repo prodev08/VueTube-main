@@ -1,0 +1,37 @@
+0. Known Bugs
+	a. Watch Later not displaying / working as expected from the channel card / main page.
+
+1. Build Admin Area
+	a. Might need to build a custom login specifically for admin tasks?
+	b. On custom (aka non google) login go to admin page that works like account page
+	c. Add Channel, Edit Channel Forms
+
+2. After Admin Setup
+	a. Clear all channels and videos. Basically clear all tables.
+	b. Start adding channels from admin which associated style and topic
+	c. Update related videos so they are actually finding other related videos
+
+X. MISC
+	a. Non Native Lazy loading?
+		i. Or figure out a way for native lazy loading to not load ugly.
+		ii. https://medium.com/techintoo/image-lazy-loading-562156838a1 ?
+
+	b. Video Descriptions
+		i. Make sure the saving and displaying of video descriptions look nice and avoids HTML entities
+		ii. Style the Video Description section
+		iii. Show a "More / Less" description Functionality
+
+Y. Symfony API
+	b. Kinda of a big task that has no affect on the front end uses
+
+Z. (OPTIONAL)
+	a. Better Animations!
+		i. Favorite should pulse / "beat" like a heart
+		ii. Look into anime.js and fontawesome SVGs to do animations between different icons (Watch later and liked)
+
+	b. Update Styling
+		i. Find a designer and have them give tips on typography, colors, and everything else
+
+	a. Analytics
+		i. Watch Time
+		ii. Videos per session?

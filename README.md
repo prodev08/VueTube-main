@@ -1,266 +1,34 @@
-Contribution: 2021-11-19 20:00
+# VueTube
 
-Contribution: 2021-11-26 20:00
+![VueTubeScreenshot](https://user-images.githubusercontent.com/720883/109431350-c5df4d80-79cb-11eb-83f7-f14b142d4382.png)
 
-Contribution: 2021-11-26 20:01
+Public Staging Server: https://vuetube.jboullion.com/
 
-Contribution: 2021-11-27 20:00
+A YouTube clone where you can save your favorite channels and search / watch them without dealing with the algorithm.
 
-Contribution: 2021-11-29 20:00
+Build your favorite catalog of channels!
 
-Contribution: 2021-12-05 20:00
+### Run Dev Server
 
-Contribution: 2021-12-05 20:01
+npm run serve
 
-Contribution: 2021-12-09 20:00
+### Build
 
-Contribution: 2021-12-13 20:00
+npm run build
 
-Contribution: 2021-12-13 20:01
+## Stack
 
-Contribution: 2021-12-14 20:00
+- [Vue](https://vuejs.org/) - Using Vue 3
+- [Bootstrap](https://getbootstrap.com/) - Not using BootstrapVue since it has not yet been updated to Vue3.
+- [Fontawesome](https://fontawesome.com/) - Not using the FontAwesome Vue components, didn't seem necessary.
+- [MySQL](https://www.mysql.com/)
+- [PHP](https://www.php.net/) - Simple Vanilla PHP with a couple classes controlling all the action
+- [Firebase](https://firebase.google.com/) - Google Authentication
 
-Contribution: 2021-12-20 20:00
+## Future Plans
 
-Contribution: 2021-12-20 20:01
+Currently using a simple PHP PDO API for simplicity. Ideally we will migrate to a Symfony Skeleton API, but that might be more hassle than it is worth
 
-Contribution: 2021-12-26 20:00
+Adding more admin functionality: Sync Channels.
 
-Contribution: 2021-12-26 20:01
-
-Contribution: 2022-01-22 20:00
-
-Contribution: 2022-02-05 20:00
-
-Contribution: 2022-02-05 20:01
-
-Contribution: 2022-02-06 20:00
-
-Contribution: 2022-02-14 20:00
-
-Contribution: 2022-02-26 20:00
-
-Contribution: 2022-02-26 20:01
-
-Contribution: 2022-02-28 20:00
-
-Contribution: 2022-03-01 20:00
-
-Contribution: 2022-03-02 20:00
-
-Contribution: 2022-03-03 20:00
-
-Contribution: 2022-03-04 20:00
-
-Contribution: 2022-03-04 20:01
-
-Contribution: 2022-03-11 20:00
-
-Contribution: 2022-03-11 20:01
-
-Contribution: 2022-03-13 20:00
-
-Contribution: 2022-03-13 20:01
-
-Contribution: 2022-03-17 20:00
-
-Contribution: 2022-03-18 20:00
-
-Contribution: 2022-03-21 20:00
-
-Contribution: 2022-03-25 20:00
-
-Contribution: 2022-03-25 20:01
-
-Contribution: 2022-04-23 20:00
-
-Contribution: 2022-04-23 20:01
-
-Contribution: 2022-04-28 20:00
-
-Contribution: 2022-05-16 20:00
-
-Contribution: 2022-05-16 20:01
-
-Contribution: 2022-05-24 20:00
-
-Contribution: 2022-06-05 20:00
-
-Contribution: 2022-06-10 20:00
-
-Contribution: 2022-06-10 20:01
-
-Contribution: 2022-06-14 20:00
-
-Contribution: 2022-06-17 20:00
-
-Contribution: 2022-06-17 20:01
-
-Contribution: 2022-06-25 20:00
-
-Contribution: 2022-06-25 20:01
-
-Contribution: 2022-06-26 20:00
-
-Contribution: 2022-06-26 20:01
-
-Contribution: 2022-06-28 20:00
-
-Contribution: 2022-06-28 20:01
-
-Contribution: 2022-06-29 20:00
-
-Contribution: 2022-07-17 20:00
-
-Contribution: 2022-07-17 20:01
-
-Contribution: 2022-07-20 20:00
-
-Contribution: 2022-07-28 20:00
-
-Contribution: 2022-07-29 20:00
-
-Contribution: 2022-07-30 20:00
-
-Contribution: 2022-07-30 20:01
-
-Contribution: 2022-08-02 20:00
-
-Contribution: 2022-08-02 20:01
-
-Contribution: 2022-08-15 20:00
-
-Contribution: 2022-08-16 20:00
-
-Contribution: 2022-08-20 20:00
-
-Contribution: 2022-08-20 20:01
-
-Contribution: 2022-08-21 20:00
-
-Contribution: 2022-08-21 20:01
-
-Contribution: 2022-09-04 20:00
-
-Contribution: 2022-09-04 20:01
-
-Contribution: 2022-09-18 20:00
-
-Contribution: 2022-09-21 20:00
-
-Contribution: 2022-09-23 20:00
-
-Contribution: 2022-09-23 20:01
-
-Contribution: 2022-09-29 20:00
-
-Contribution: 2022-09-30 20:00
-
-Contribution: 2022-09-30 20:01
-
-Contribution: 2022-10-10 20:00
-
-Contribution: 2022-10-10 20:01
-
-Contribution: 2022-10-20 20:00
-
-Contribution: 2022-10-20 20:01
-
-Contribution: 2022-10-21 20:00
-
-Contribution: 2022-10-21 20:01
-
-Contribution: 2022-11-09 20:00
-
-Contribution: 2022-11-10 20:00
-
-Contribution: 2022-11-10 20:01
-
-Contribution: 2022-11-11 20:00
-
-Contribution: 2022-11-11 20:01
-
-Contribution: 2022-11-14 20:00
-
-Contribution: 2022-11-14 20:01
-
-Contribution: 2022-11-16 20:00
-
-Contribution: 2022-11-21 20:00
-
-Contribution: 2022-11-22 20:00
-
-Contribution: 2022-12-03 20:00
-
-Contribution: 2022-12-07 20:00
-
-Contribution: 2022-12-17 20:00
-
-Contribution: 2022-12-18 20:00
-
-Contribution: 2022-12-19 20:00
-
-Contribution: 2022-12-19 20:01
-
-Contribution: 2022-12-22 20:00
-
-Contribution: 2022-12-22 20:01
-
-Contribution: 2023-01-01 20:00
-
-Contribution: 2023-01-09 20:00
-
-Contribution: 2023-01-15 20:00
-
-Contribution: 2023-01-21 20:00
-
-Contribution: 2023-01-22 20:00
-
-Contribution: 2023-01-22 20:01
-
-Contribution: 2023-02-04 20:00
-
-Contribution: 2023-02-06 20:00
-
-Contribution: 2023-02-06 20:01
-
-Contribution: 2023-02-08 20:00
-
-Contribution: 2023-02-08 20:01
-
-Contribution: 2023-02-11 20:00
-
-Contribution: 2023-02-11 20:01
-
-Contribution: 2023-02-22 20:00
-
-Contribution: 2023-02-24 20:00
-
-Contribution: 2023-02-25 20:00
-
-Contribution: 2023-03-02 20:00
-
-Contribution: 2023-03-02 20:01
-
-Contribution: 2023-03-05 20:00
-
-Contribution: 2023-03-09 20:00
-
-Contribution: 2023-03-09 20:01
-
-Contribution: 2023-03-12 20:00
-
-Contribution: 2023-03-17 20:00
-
-Contribution: 2023-03-17 20:01
-
-Contribution: 2023-03-18 20:00
-
-Contribution: 2023-03-18 20:01
-
-Contribution: 2023-03-23 20:00
-
-Contribution: 2023-03-23 20:01
-
-Contribution: 2023-03-31 20:00
-
+Adding support for subdomains in order to access separate databases / tables for different catalogs.
